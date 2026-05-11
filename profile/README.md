@@ -1,8 +1,8 @@
-# Qlarr Surveys
+# Qlarr
 
 [![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/3exUNKwsET)
 
-**Qlarr Surveys** is an open-source framework for creating and running customizable, scientific, and offline-first surveys as code on all platforms. Surveys are defined using JSON to represent UI-agnostic survey components and JavaScript instructions to represent complex survey logic.
+**Qlarr** is an open-source framework for creating and running customizable, scientific, and offline-first surveys as code on all platforms. Surveys are defined using JSON to represent UI-agnostic survey components and JavaScript instructions to represent complex survey logic.
 
 ## 🌟 Key Features
 
@@ -18,7 +18,7 @@
 
 ## 🏗️ Architecture
 
-The Qlarr Surveys ecosystem consists of four main components:
+The Qlarr ecosystem consists of four main components:
 
 ### 1. [Survey Engine (KMP)](https://github.com/qlarr-surveys/survey-engine-kmp)
 The core UI-agnostic engine that powers all survey functionality. Written in Kotlin JVM with plans to migrate to Kotlin Native for cross-platform support.
