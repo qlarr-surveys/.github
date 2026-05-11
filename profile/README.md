@@ -213,7 +213,7 @@ Open-source - check individual repositories for specific license information.
 
 - **Website**: [https://www.qlarr.com](https://www.qlarr.com)
 - **Discord**: [Join our community](https://discord.gg/3exUNKwsET)
-- **Documentation**: Coming soon
+- **Documentation**: https://qlarr-surveys.github.io/docs/
 
 ## 📱 Platform Support
 
